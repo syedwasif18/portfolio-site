@@ -1,0 +1,281 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+header{
+	width: 100%;
+	float: left;
+	background-color: violet;
+}
+.menu{
+	width: 100%;
+	float: left;
+
+}
+.logo{
+	width: 30%;
+	float: left;
+}
+.logo img{
+
+width: 75px;
+}
+.main-menu{
+	width: 70%;
+	float: left;
+
+}
+.main-menu nav{
+
+}
+.main-menu nav ul{
+
+    list-style: none;
+}
+.main-menu nav ul li{
+
+    display: inline-block;
+
+    margin: 30px 20px;
+}
+.main-menu nav ul li a{
+
+    font-size: 35px;
+
+    padding: 15px;
+
+    text-decoration: none;
+
+    color: black;
+}
+.hd-text{
+
+    width: 700px;
+
+    margin: 0 auto;
+
+    padding: 30px;
+}
+.hd-text h1 {
+    font-size: 25px;
+    text-align: center;
+    margin: 40px 10px;
+    padding: 70px 0px 0px;
+    text-transform: capitalize;
+}
+.hd-text button {
+    margin: 10px auto;
+    display: block;
+    padding: 15px 30px;
+    background-color: orange;
+    border: none;
+    box-shadow: 1px 2px 3px gainsboro;
+}
+.hd-text button a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.service{
+	width: 100%;
+	float: left;
+	background-color: #09ADA2;
+}
+.description{
+	width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+
+}
+.description h2 {
+    font-size: 45px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.description span {
+    border-bottom: 3px solid black;
+    display: block;
+    width: 123px;
+    margin: 4px auto;
+    padding-bottom: 1px;
+}
+.description p {
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.contents{
+	width: 100%;
+	float: left;
+	margin: 20px 0px;
+
+}
+.branding{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.branding h4 {
+    font-size: 20px;
+    margin: 14px 0px;
+}
+.branding p {
+    font-size: 12px;
+    padding: 0px 0px;
+}
+.far.fa-flag{
+	font-size: 150px;
+	color: orange;
+	text-align: center;
+
+}
+.fas.fa-pencil-alt{
+	font-size: 150px;
+	color: yellow;
+
+}
+.fas.fa-cogs{
+	font-size: 150px;
+	color: lightskyblue;
+
+}
+.fas.fa-rocket{
+	font-size: 150px;
+	color: red;
+
+}
+.team{
+	width: 100%;
+	float: left;
+	background-color: #D0CFD1;
+}
+.people{
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.people img {
+    width: 100px;
+    border-radius: 60%;
+    margin: 5px 0px;
+    padding: 2px 0px;
+}
+.people h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.people h5 {
+    color: blue;
+    font-size: 12px;
+    margin: 5px 0px;
+}
+.people p{
+	font-size: 12px;
+
+}
+.people ul{
+	list-style: none;
+
+}
+.people ul li {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    background-color: cornsilk;
+    border-radius: 50%;
+    font-size: 15px;
+}
+.fab.fa-facebook-f{
+
+}
+.fab.fa-twitter{
+
+}
+.fab.fa-linkedin-in{
+
+}
+.fas.fa-envelope{
+
+}
+.about{
+	width: 100%;
+	float: left;
+	background-color: pink;
+}
+.about-main{
+	width: 100%;
+	float: left;
+}
+.first{
+	width: 50%;
+	float: left;
+	margin-bottom: 10px;
+}
+.f-img{
+	width: 30%;
+	float: left;
+
+}
+.f-img img{
+
+    width: 140px;
+
+    border-radius: 50%;
+}
+.f-text{
+	width: 70%;
+	float: left;
+	text-align: left;
+	font-size: 15px;
+	margin: 5px 0px;
+}
+.f-text p{
+
+    margin: 10px 0px;
+
+    color: white;
+}
+.f-text h3{
+
+    margin-bottom: 3px;
+
+    color: white;
+}
+.f-text h6{
+
+    color: yellow;
+}
+.get-in-touch{
+	width: 100%;
+	float: left;
+	background-color: #3E549C;
+}
+.frmm{
+	width: 600px;
+	margin: 0 auto;
+}
+.frm {
+    width: 49%;
+    background-color: #093051;
+    border: none;
+    margin: 3px 1px;
+    padding: 5px 1px;
+}
+.text-area {
+    width: 100%;
+    height: 110px;
+    background-color: #093051;
+    border: none;
+    color: white;
+}
+.btn {
+    margin: 8px auto;
+    display: block;
+    font-size: 19px;
+    padding: 10px 18px;
+    background-color: #EEE8DC;
+}
